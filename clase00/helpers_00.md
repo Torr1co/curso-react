@@ -1,4 +1,11 @@
-#ayudantes para clase
+#Pasos para realizar el TP1:
+
+crear un proyecto de react con npx create-react-app nombre_de_proyecto
+cambiar la carpeta src por la que se encuentra en la clase
+realizar el trabajo practico
+feliz codigo :)
+
+###///codigo explicado en clase
 
 <!-- <div>
   <label for="nombre"> Nombre </label>
